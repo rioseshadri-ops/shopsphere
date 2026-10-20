@@ -1,0 +1,15 @@
+{
+  "name": "shopsphere-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ShopSphere e-commerce frontend",
+  "scripts": {
+    "start": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "dev": "vite --host 0.0.0.0"
+  },
+  "dependencies": {
+    "vite": "^6.0.0"
+  },
+  "devDependencies": {}
+}
